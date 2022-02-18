@@ -1,0 +1,29 @@
+{
+    "die bodies" : 
+    [     
+        {
+            "PressSize" : "611",
+            "BodyOD" : 69.85,
+            "BodyOAL" : 63.50,
+            "BodyBottomDiaSize" : 69,
+            "BodyBottomDiaLength" : 5,
+            "BodyTopDia" : 63.5,
+            "BodyTopDiaLength" : 9.52,
+            "EjectorBodyDiaBoreDefault" : 1,
+            "EjectorHeadDiaBoreDefault" : 7,
+            "EjectorHeadBoreDepth" : 5  
+        },
+        {
+            "PressSize" : "312",
+            "BodyOD" : 50.77,
+            "BodyOAL" : 28.54,
+            "BodyBottomDiaSize" : 49.50,
+            "BodyBottomDiaLength" : 3,
+            "BodyTopDia" : 44.50,
+            "BodyTopDiaLength" : 5.02,
+            "EjectorBodyDiaBoreDefault" : 1,
+            "EjectorHeadDiaBoreDefault" : 7,
+            "EjectorHeadBoreDepth" : 5  
+        }
+    ]
+}
