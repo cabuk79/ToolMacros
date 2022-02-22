@@ -1,0 +1,23 @@
+{
+    "die bodies" : 
+    [     
+        {
+            "PressSize" : "611",
+            "MinOD" : 0,
+            "MaxOD" : 61.00,
+            "Standard" : "Standard" 
+        },
+        {
+            "PressSize" : "312",
+            "MinOD" : 0,
+            "MaxOD" : 42.00,
+            "Standard" : "Standard"            
+        },
+        {
+            "PressSize" : "312",
+            "MinOD" : 42.01,
+            "MaxOD" : 65.00,
+            "Standard" : "Large"         
+        }
+    ]
+}
