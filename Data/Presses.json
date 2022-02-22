@@ -1,0 +1,13 @@
+{
+    "Presses" : 
+    [     
+        {
+            "PressSize" : "611",
+            "PressNumber" : 1          
+        },
+        {
+            "PressSize" : "312",
+            "PressNumber" : 40 
+        }
+    ]
+}

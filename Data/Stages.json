@@ -1,0 +1,32 @@
+{
+    "Tool Stages" : 
+    [     
+        {
+            "Stage Name" : "Size"
+        },
+        {
+            "Stage Name" : "Cup"
+        },
+        {
+            "Stage Name" : "1st Draw"
+        },
+        {
+            "Stage Name" : "2nd Draw"
+        },
+        {
+            "Stage Name" : "3rd Draw"
+        },
+        {
+            "Stage Name" : "Clip"
+        },
+        {
+            "Stage Name" : "Pierce"
+        },
+        {
+            "Stage Name" : "Dummy"
+        },
+        {
+            "Stage Name" : "Stamp"
+        }
+    ]
+}

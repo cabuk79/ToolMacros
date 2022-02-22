@@ -1,0 +1,49 @@
+// {
+//     "Descriptions": {
+//         "AA": "AA-Module1",
+//         "AD": "AD-Module2",
+//         "AL": "AL-Module3",
+//         "AAB": "AAB-Module4",
+//         "AAC": "AAC-Module5",
+//         "CE": "CE-Module6",
+//         "CL": "CL-Module7"
+//     },
+//     "WebServices": {
+//         "CA": "WS1",
+//         "CB": "WS2",
+//         "CL": "WS2",
+//         "DB": "WS3",
+//         "UA": "WS4"
+//     },
+//     "CustomersDescs": {
+//         "ALL": [
+//             "AA",
+//             "AD",
+//             "AL",
+//             "AAB",
+//             "AAC",
+//             "CE",
+//             "CL"
+//         ],
+//         "Customer1": [
+//             "AA",
+//             "AAC"
+//         ],
+//         "Customer2": [
+//             "AA",
+//             "CE"
+//         ],
+//         "Customer3": [
+//             "AA",
+//             "CE",
+//             "AD",
+//             "CL"
+//         ],
+//         "Customer4": [
+//             "AA",
+//             "CE",
+//             "AD",
+//             "CL"
+//         ]
+//     }
+// }
