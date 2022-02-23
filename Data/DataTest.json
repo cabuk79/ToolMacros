@@ -31,21 +31,27 @@
             "EjectorBodyDiaBoreDefault" : 1,
             "EjectorHeadDiaBoreDefault" : 7,
             "EjectorHeadBoreDepth" : 5,
-            "HasOilGroove" : "No" 
+            "HasOilGroove" : "No",
+            "OilGrooveDepth" : 0,
+            "OilGrooveY1" : 0,
+            "OilGrooveY2" : 0 
         },
         {
             "PressSize" : "312",
             "Standard" : "Large",
-            "BodyOD" : 100,
-            "BodyOAL" : 100,
-            "BodyBottomDiaSize" : 80,
+            "BodyOD" : 57.15,
+            "BodyOAL" : 28.55,
+            "BodyBottomDiaSize" : 56.15,
             "BodyBottomDiaLength" : 3,
-            "BodyTopDia" : 70,
+            "BodyTopDia" : 54.00,
             "BodyTopDiaLength" : 5.02,
             "EjectorBodyDiaBoreDefault" : 1,
-            "EjectorHeadDiaBoreDefault" : 7,
-            "EjectorHeadBoreDepth" : 5, 
-            "HasOilGroove" : "No" 
+            "EjectorHeadDiaBoreDefault" : 0,
+            "EjectorHeadBoreDepth" : 0, 
+            "HasOilGroove" : "No",
+            "OilGrooveDepth" : 0,
+            "OilGrooveY1" : 0,
+            "OilGrooveY2" : 0 
         }
     ]
 }

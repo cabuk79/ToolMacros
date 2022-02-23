@@ -1,0 +1,49 @@
+{
+    "Solid Works Templates" : 
+    [     
+        {
+            "FileLocation" : "L:\\Templates\\Tooling Templates\\Tooling Part - Version 3.PRTDOT",
+            "Name" : "Solidworks Part Template Location",
+            "Comments" : "This is the template location for the solidworks SACO tooling part template"
+        },
+        {
+            "FileLocation" : "L:\\Templates\\Tooling Templates\\Tooling Assembly - Version 1.ASMDOT",
+            "Name" : "Solidworks Assembly Template Location",
+            "Comments" : "This is the template location for the solidworks SACO tooling assembly template"
+        }
+    ],
+    "Data File Locations" : 
+    [     
+        {
+            "FileLocation" : "C:\\Users\\craig.brunton\\Documents\\SolidWorks API\\Data\\Designers.json",
+            "Name" : "Designers",
+            "Comments" : "This is the location for the designers information such as their initals"
+        },
+        {
+            "FileLocation" : "C:\\Users\\craig.brunton\\Documents\\SolidWorks API\\Data\\DataTest.json",
+            "Name" : "Standard Part Model Sizes",
+            "Comments" : "This is the location for the sizes for the standard part such as die bodies, chucks etc."
+        },
+        {
+            "FileLocation" : "C:\\Users\\craig.brunton\\Documents\\SolidWorks API\\Data\\Presses.json",
+            "Name" : "Presses",
+            "Comments" : "This is the location for the press numbers and sizes."
+        },
+        {
+            "FileLocation" : "C:\\Users\\craig.brunton\\Documents\\SolidWorks API\\Data\\Stages.json",
+            "Name" : "Stages",
+            "Comments" : "This is the location for the information stages."
+        },
+        {
+            "FileLocation" : "C:\\Users\\craig.brunton\\Documents\\SolidWorks API\\Data\\SizeChanges.json",
+            "Name" : "Size Changes",
+            "Comments" : "This is the location for the information informtion on what type of stndard part to chose"
+        }
+    ],
+    "Tooling Save To" :
+    [        
+        {
+            "Tooling Top Level Location" : ""
+        }
+    ]
+}
