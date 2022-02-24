@@ -40,10 +40,12 @@
             "Comments" : "This is the location for the information informtion on what type of stndard part to chose"
         }
     ],
-    "Tooling Save To" :
+    "Tooling Save Locations" :
     [        
         {
-            "Tooling Top Level Location" : ""
+            "FileLocation" : "N:\\",
+            "Name" : "Top level tool stages location",
+            "Comments" : "This is the top level location for components folders"
         }
     ]
 }
