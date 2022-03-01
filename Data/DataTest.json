@@ -14,9 +14,10 @@
             "EjectorHeadDiaBoreDefault" : 7,
             "EjectorHeadBoreDepth" : 5,
             "HasOilGroove" : "Yes",
-            "OilGrooveDepth" : 2,
-            "OilGrooveY1" : 40,
-            "OilGrooveY2" : 50
+            "OilGrooveDepth" : 1.5,
+            "OilGrooveY1" : 9,
+            "OilGrooveY2" : 15.50,
+            "OilGrooveHoleDia" : 6
 
         },
         {
@@ -34,7 +35,8 @@
             "HasOilGroove" : "No",
             "OilGrooveDepth" : 0,
             "OilGrooveY1" : 0,
-            "OilGrooveY2" : 0 
+            "OilGrooveY2" : 0,
+            "OilGrooveHoleDia" : 0
         },
         {
             "PressSize" : "312",
@@ -51,7 +53,8 @@
             "HasOilGroove" : "No",
             "OilGrooveDepth" : 0,
             "OilGrooveY1" : 0,
-            "OilGrooveY2" : 0 
+            "OilGrooveY2" : 0,
+            "OilGrooveHoleDia" : 0
         }
     ]
 }

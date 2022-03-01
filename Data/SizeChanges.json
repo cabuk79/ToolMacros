@@ -4,7 +4,7 @@
         {
             "PressSize" : "611",
             "MinOD" : 0,
-            "MaxOD" : 61.00,
+            "MaxOD" : 58.00,
             "Standard" : "Standard" 
         },
         {
@@ -18,6 +18,29 @@
             "MinOD" : 42.01,
             "MaxOD" : 65.00,
             "Standard" : "Large"         
+        }
+    ],
+    "ejector bores" : 
+    [     
+        {
+            "PressSize" : "611",
+            "MinOD" : 0,
+            "MaxOD" : 42.00,
+            "Standard" : "Standard" 
+        },
+        {
+            "PressSize" : "611",
+            "MinOD" : 42.00,
+            "Standard" : "No Ejector Head" 
+        }
+    ],
+    "die top plates" : 
+    [     
+        {
+            "PressSize" : "611",
+            "MinOD" : 58.01,
+            "MaxOD" : 63.00,
+            "Standard" : "Standard" 
         }
     ]
 }
