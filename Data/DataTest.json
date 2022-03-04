@@ -17,8 +17,9 @@
             "OilGrooveDepth" : 1.5,
             "OilGrooveY1" : 9,
             "OilGrooveY2" : 15.50,
-            "OilGrooveHoleDia" : 6
-
+            "OilGrooveHoleDia" : 6,
+            "Material" : "BRIGHT MILD STEEL",
+            "Description" : "DIE BODY"
         },
         {
             "PressSize" : "312",
@@ -36,7 +37,9 @@
             "OilGrooveDepth" : 0,
             "OilGrooveY1" : 0,
             "OilGrooveY2" : 0,
-            "OilGrooveHoleDia" : 0
+            "OilGrooveHoleDia" : 0,
+            "Material" : "BRIGHT MILD STEEL",
+            "Description" : "DIE BODY"
         },
         {
             "PressSize" : "312",
@@ -54,7 +57,9 @@
             "OilGrooveDepth" : 0,
             "OilGrooveY1" : 0,
             "OilGrooveY2" : 0,
-            "OilGrooveHoleDia" : 0
+            "OilGrooveHoleDia" : 0,
+            "Material" : "BRIGHT MILD STEEL",
+            "Description" : "DIE BODY"
         }
     ]
 }
