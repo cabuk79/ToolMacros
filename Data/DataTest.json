@@ -40,6 +40,12 @@
             "EjectorHeadDiaBoreDefault" : 7,
             "EjectorHeadBoreDepth" : 5,
             "HasOilGroove" : "No",
+            "StageswithOilGroove" :
+                [
+                    {
+                      
+                    }
+                ],
             "OilGrooveDepth" : 0,
             "OilGrooveY1" : 0,
             "OilGrooveY2" : 0,
@@ -60,6 +66,12 @@
             "EjectorHeadDiaBoreDefault" : 0,
             "EjectorHeadBoreDepth" : 0, 
             "HasOilGroove" : "No",
+            "StageswithOilGroove" :
+                [
+                    {
+                        
+                    }
+                ],
             "OilGrooveDepth" : 0,
             "OilGrooveY1" : 0,
             "OilGrooveY2" : 0,

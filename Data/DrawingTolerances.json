@@ -1,0 +1,30 @@
+{
+    "die bodies" : 
+    [     
+        {
+            "PressSize" : "611",
+            "Standard" : "Standard",        
+            "OALDim" :
+                [
+                    {
+                        "Upper" : 0.00,
+                        "Lower" : 0.02                    
+                    }
+                ],
+            "BodyDiaDim" :
+                [
+                    {
+                        "Upper" : 0.00,
+                        "Lower" : 0.02                    
+                    }
+                ],
+            "TopDiaDim" :
+                [
+                    {
+                        "Upper" : 0.00,
+                        "Lower" : 0.02                    
+                    }
+                ]                
+        }
+    ]
+}
